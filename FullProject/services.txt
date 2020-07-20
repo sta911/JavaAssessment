@@ -1,0 +1,5 @@
+Face Treatment_40_Relaxing facial treatment
+Body Treatment_70_Relaxing body treatment
+Massage_50_Full body massage
+Pool Treatment_30_Full body exercises in pool
+Hair Removal_35_Wax hair removal
