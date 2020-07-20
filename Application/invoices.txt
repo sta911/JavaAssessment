@@ -1,0 +1,23 @@
+0:
+0/0_Pool Treatment_2_60.0/1_Massage_2_100.0/
+1/0_Massage_1_50.0/
+2/0_Massage_1_50.0/
+3/0_Face Treatment_1_40.0/
+4/0_Body Treatment_1_70.0/1_Hair Removal_1_35.0/
+1:
+0/0_Face Treatment_1_40.0/1_Body Treatment_1_70.0/
+1/0_Massage_1_50.0/
+2/0_Face Treatment_1_40.0/1_Pool Treatment_1_30.0/
+3/0_Body Treatment_1_70.0/
+2:
+0/0_Hair Removal_1_35.0/
+1/0_Hair Removal_1_35.0/
+2/0_Body Treatment_2_140.0/
+3/0_Body Treatment_1_70.0/
+3:
+0/0_Face Treatment_3_120.0/1_Massage_3_150.0/
+4:
+0/0_Massage_1_50.0/
+1/0_Pool Treatment_1_30.0/
+5:
+6:
